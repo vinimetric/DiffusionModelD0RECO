@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env/
+.venv/
+
+# Model Checkpoints
+checkpoints/
+*.pt
+*.pth
+
+# Data and Outputs
+*.txt
+*.csv
+scaler.pkl
+*.pkl
+
+# Plots
+*.png
+*.pdf
+*.jpg
+*.jpeg
