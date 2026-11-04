@@ -1,5 +1,4 @@
 import torch
-
 import math
 
 def linear_beta_schedule(timesteps, beta_start=1e-4, beta_end=0.02):
